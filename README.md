@@ -68,4 +68,3 @@ MONGODB_ATLAS_DB_NAME= # The name of your database.
 MONGODB_ATLAS_COLLECTION_NAME= # The name of your collection.
 MONGODB_ATLAS_INDEX_NAME= # The name of the index you just created.
 ```
-
